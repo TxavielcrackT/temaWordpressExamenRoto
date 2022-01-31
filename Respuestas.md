@@ -1,16 +1,5 @@
-## Preparación
 
-- Haz un fork de este repositorio y mantenlo privado
-- Añádeme (@menendezjaume) y a Dani (@dmartinez82) para que podamos verlos y corregirlos
-- Aunque no es necesario tener una instalación de WordPress funcional, es muy recomendado. Podrás ver si los cambios que haces tienen efecto o no, y si vas por buen camino
-- Clona este repositorio en el directorio de temas (_themes_) de tu instalación de WordPress (si la tienes)
-- Recuerda que si vas a usar WordPress para ver como vas corrigiendo los errores(recomendado), para este examen los _ajustes_ de _lectura_ tienen que estar configurados de modo que _Tu página de inicio muestre_ como portada el _home_, y como página de entradas el _blog_
-- Para que el menú de arriba se vea bien, necesitareis asignarle un menú desde la opción _apariencia_ _menus_ tal y como hemos visto en clase
-- Abre el directorio con tu IDE favorito (Visual Studio Code?)
 
-## Enunciado
-
-Hay que resolver los siguientes problemas:
 
 1. Primero de todo, necesitaría ayuda resolviendo 2 _fatal errors_, cuando resuelvas uno, te saldrá el siguiente. (10 puntos)
 2. He creado dos ficheros llamados _blog.css_ y _fonts.css_ en el directorio _inc/css_ pero no sé cómo incorporarlos al tema. Además, quiero que tengan preferencia respecto al ya incorporado css de _bootstrap_ (10 puntos)
@@ -38,9 +27,3 @@ o cualquier boton de tu eleccion
 8. Antes, cuando estaba logeado como usuario en el panel de administrador y visitaba el blog, me salía un menú negro de WordPress arriba. Ahora ya no. ¿Podrías recuperarlo? (10 puntos)
 
 ........Si
-
-## Imágenes
-
-Imagen 1
-
-![Imagen 1](https://github.com/menendezjaume/temaWordpressExamenRoto/blob/main/inc/img/imagen.png)
